@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h2 {
+    color: #343a40;
+  }
+  
+  footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  

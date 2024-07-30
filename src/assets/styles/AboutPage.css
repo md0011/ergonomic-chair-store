@@ -1,0 +1,45 @@
+.about-page {
+    background: #f7f7f7;
+    padding: 180px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .about-page:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .about-image-wrapper {
+    text-align: center;
+  }
+  
+  .about-image {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .about-image:hover {
+    transform: scale(1.05);
+  }
+  
+  .about-content {
+    text-align: left;
+    padding: 20px;
+  }
+  
+  .about-title {
+    color: #343a40;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  .about-text {
+    color: #6c757d;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
